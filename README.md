@@ -17,3 +17,6 @@ A simple and interactive Movie Recommender System built using **Python**, **Stre
 - Pandas & NumPy
 - Scikit-learn
 - Streamlit
+
+- NOTE :- download similarity.pkl ..
+- https://drive.google.com/file/d/1NVBzBNrduk5DYUiXa40GPlzYXw6cQ84-/view?usp=sharing
